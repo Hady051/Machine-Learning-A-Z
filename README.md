@@ -1,7 +1,6 @@
 # Machine Learning A-Z
 
-This repository contains all of my code and resources for learning and implementing machine learning algorithms from scratch and with popular Python libraries. It is based on the widely followed **Machine Learning A-Z** curriculum.
-
+This repository contains all of **my code and resources** for learning and implementing machine learning algorithms from scratch and with popular Python libraries.
 I have also **written all the ML algorithmes theories** to study the the theoritical concepts better and more clearly.
 
 ## 📌 Project Overview
