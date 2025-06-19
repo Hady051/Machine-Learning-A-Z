@@ -1,6 +1,6 @@
 # Machine Learning A-Z
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains all of **my code and resources** for learning and implementing machine learning algorithms from scratch and with popular Python libraries.
 I have also **written all the ML algorithmes theories** to study the the theoritical concepts better and more clearly.
